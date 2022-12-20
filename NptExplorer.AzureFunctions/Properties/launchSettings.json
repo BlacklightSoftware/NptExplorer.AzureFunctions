@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "NptExplorer.AzureFunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7152",
+      "launchBrowser": false
+    }
+  }
+}
